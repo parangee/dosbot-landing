@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d62389c2-02d3-421f-9d42-a79e6b22ca24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/das-support.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/das-support.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -32,11 +33,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598442340420</updated>
-      <workItem from="1598442341540" duration="630000" />
+      <workItem from="1598442341540" duration="748000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4426" y="238" key="#Inspections" timestamp="1598443062948">
+      <screen x="3840" y="40" width="1920" height="1040" />
+    </state>
+    <state x="4426" y="238" key="#Inspections/0.40.3072.1688/3840.40.1920.1040@3840.40.1920.1040" timestamp="1598443062948" />
   </component>
 </project>
